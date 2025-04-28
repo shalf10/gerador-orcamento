@@ -16,19 +16,6 @@ Este sistema coleta informações do cliente, salva os dados em um arquivo .csv 
 
     Gera um PDF personalizado para cada orçamento
 
-📂 Estrutura de Pastas
-
-gerador_orcamento/
-├── main.py
-├── orcamento.py
-├── utils/
-│   ├── pdf_generator.py
-│   ├── data_handler.py
-├── data/
-│   ├── orcamentos.csv
-├── README.md
-├── requirements.txt
-
 🛠️ Tecnologias usadas
 
     Python 3.8+
@@ -48,7 +35,7 @@ gerador_orcamento/
     Clone o repositório:
 
 git clone https://github.com/seu-usuario/gerador-orcamento.git
-cd gerador_orcamento
+cd gerador-orcamento
 
     Instale as dependências:
 
@@ -86,6 +73,7 @@ Orçamento criado com sucesso!
     Enviar orçamentos por e-mail automaticamente
 
 🧠 Autor
+Rodrigo Silva
 
 Desenvolvido como projeto de estudo para portfólio de Python.
 Feito com foco em prática e aprendizado contínuo! 🚀
